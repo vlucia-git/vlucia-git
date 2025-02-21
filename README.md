@@ -1,14 +1,9 @@
-🎮 Game Designer in the making | Premium Bug Developer 🛠️
+🎮 Game Tester in the Making | Premium Bug Hunter 🛠️
 
-Hey! I'm Lúcia, a trans woman passionate about creating worlds, telling stories, and making players scream in frustration (but in a fun way, I promise!).
+Hey! I'm Lúcia, a trans woman passionate about breaking games so players don’t have to. My mission? Find the weirdest, wildest bugs before they ruin the fun!
 
-👾 I love games—classic and modern alike—and I'm diving into the world of game design and development.
-💡 My ideas are a mix of sci-fi, horror, and just a little bit of chaos.
-🐞 Bugs? I prefer to call them "unexpected features."
+🐞 Bugs? I call them "emergent gameplay."
+🎮 Testing? It’s like speedrunning, but my goal is to crash everything.
+💡 Favorite Mechanics? Anything that can be exploited in hilarious ways.
 
-If you love games, coffee, and weird theories about game mechanics, let's chat! 🚀
-
-<!---
-vlucia-git/vlucia-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m diving into manual and automated testing, always on the lookout for game-breaking glitches and design quirks. If you love games, bug hunts, and deep dives into game mechanics, let's talk! 🚀
